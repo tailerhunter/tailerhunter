@@ -3,11 +3,11 @@
    Colors can be names (teal) or hex codes (#1f6f8b).
    ============================================================ */
 :root {
-  --accent: #E9724C;       /* headings, links, the line under headings */
-  --text: #481D24;         /* main text color */
-  --background: #C5283D;   /* page background */
-  --card: #FFC857;         /* background behind each section */
-  --font: "Segoe UI", Helvetica, Arial, sans-serif;
+  --accent:  #C65D4B;       /* headings, links, the line under headings */
+  --text: #4A2C2A;         /* main text color */
+  --background:  #FFF1E6;   /* page background */
+  --card: #F8D7A8;         /* background behind each section */
+  --font: "Kalam", cursive;
 }
 
 /* Some color sets to try. Copy the lines you want into the box above.
